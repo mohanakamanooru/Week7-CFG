@@ -1,1 +1,4 @@
 This is a sample text file created in remote repo / origin
+
+
+I have made this change from local repo - new branch
